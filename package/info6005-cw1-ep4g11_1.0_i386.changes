@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 23 Feb 2012 01:23:35 +0000
+Source: info6005-cw1-ep4g11
+Binary: info6005-cw1-ep4g11
+Architecture: source all
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: Eleftherios Panagoulis <ep4g11@soton.ac.uk>
+Changed-By: Eleftherios Panagoulis <ep4g11@soton.ac.uk>
+Description: 
+ info6005-cw1-ep4g11 - A feed reader running from command line.
+Changes: 
+ info6005-cw1-ep4g11 (1.0) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 6673715c07e83f039dc9f0ba659c7283aa3b985e 509 info6005-cw1-ep4g11_1.0.dsc
+ d7e709e59b10707cd37e1215f601545c41285959 24689 info6005-cw1-ep4g11_1.0.tar.gz
+ 41e10d0c11c9bc642c0543cae13d2aeda4553bce 5516 info6005-cw1-ep4g11_1.0_all.deb
+Checksums-Sha256: 
+ 818aabe8dfe6e44c6c7204642d566a80ded1a917ffe686169062d1c1d7c8b31d 509 info6005-cw1-ep4g11_1.0.dsc
+ c4f5558dd91981413fd70f25d87fd76f1acb22e5fa9f5b843bfeff4161986e3d 24689 info6005-cw1-ep4g11_1.0.tar.gz
+ c5249291f590d495cc2ba412f9fc98132c283ecacee14af4af37ed17804d57dd 5516 info6005-cw1-ep4g11_1.0_all.deb
+Files: 
+ ded10acd37a33d84fa93c6a567bb5d79 509 web extra info6005-cw1-ep4g11_1.0.dsc
+ a1e3f2fc91d172d8a694317ec7a31975 24689 web extra info6005-cw1-ep4g11_1.0.tar.gz
+ cc7387f0fd622a9e74f12acfaf53485a 5516 web extra info6005-cw1-ep4g11_1.0_all.deb
