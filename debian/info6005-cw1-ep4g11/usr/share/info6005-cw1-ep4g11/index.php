@@ -46,7 +46,7 @@
 
 	# Read config from file
 	if (@!$config) {
-		$config_file = 'feeds.conf';
+		$config_file = '/usr/share/info6005-cw1-ep4g11/feeds.conf';
 		if (file_exists($config_file)) {
 			$config = conf_from_file($config_file);
 		}
@@ -72,7 +72,7 @@
 
 	function process_request($config) {
 		# GOT THE FEEDS, PROCESS AND OUTPUT
-		require_once('rss_php.php');
+		require_once('/usr/share/info6005-cw1-ep4g11/rss_php.php');
 
 		$rss = new rss_php;
 
