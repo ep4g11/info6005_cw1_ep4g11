@@ -1,0 +1,35 @@
+INFO6005 - Coursework 1 - University of Southampton 2012 
+========================================================
+Source control usage and debian packaging
+========================================================
+
+RSS Feed Reader running from command line.
+   By default shows the 10 last news titles published on BBC website.
+
+============
+Install
+============
+
+The package can be installed in two ways.
+1. Terminal
+	Run command : dpkg -i info6005-cw1-ep4g11_1.0_all.deb
+	Package depends on <php5-cli>.
+	Run command : apt-get install
+	Downloads dependencies for running properly.
+2. Software Center
+	Search for package named info6005-cw1-ep4g11_1.0_all
+
+==================
+Run Software
+==================
+
+To run the RSS reader you need to open a terminal application.
+Run the command : getfeeds
+You will be presented with the 10 latest article titles from BBC. 
+ 
+
+
+
+
+
+
