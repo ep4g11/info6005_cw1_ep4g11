@@ -1,0 +1,32 @@
+Format: 1.8
+Date: Thu, 23 Feb 2012 19:15:12 +0000
+Source: info6005-cw1-ep4g11
+Binary: info6005-cw1-ep4g11
+Architecture: source all
+Version: 1.2
+Distribution: unstable
+Urgency: low
+Maintainer: Eleftherios Panagoulis <ep4g11@soton.ac.uk>
+Changed-By: Eleftherios Panagoulis <ep4g11@soton.ac.uk>
+Description: 
+ info6005-cw1-ep4g11 - RSS Feed Reader running from command line.
+Changes: 
+ info6005-cw1-ep4g11 (1.2) unstable; urgency=low
+ .
+   [Eleftherios Panagoulis <ep4g11@soton.ac.uk>]
+   * Updated index.php to reflect folder structure after installation.
+   * Updated package files after change in code.
+   * Updated Checksum after repackaging.
+   * Updated index.php to be installed.
+Checksums-Sha1: 
+ 334f8bfb267732f07f75e07e4b2c56d6e7e7b539 512 info6005-cw1-ep4g11_1.2.dsc
+ 9aeecbd7944c6c228894d40fd3fdf92ff71aa34b 280308 info6005-cw1-ep4g11_1.2.tar.gz
+ b08f83f357456ff8e999d04e0e1a36b8dfc35923 7020 info6005-cw1-ep4g11_1.2_all.deb
+Checksums-Sha256: 
+ 66cb269010b1534c86b81ea68731f9ba9bf914c577cf778514a0582fa978c05e 512 info6005-cw1-ep4g11_1.2.dsc
+ 1bca1fa934c4462ebf6fd967b9aaf87ce50f6d08a45f5d58b501ae449e617a41 280308 info6005-cw1-ep4g11_1.2.tar.gz
+ 5e6b1e2b7ea4fca06bd86fe9e432f8eeb02443c75dcfaf2e2a10a6e0d21f65b1 7020 info6005-cw1-ep4g11_1.2_all.deb
+Files: 
+ 40b805fc4024acaefa911c74be33773e 512 web extra info6005-cw1-ep4g11_1.2.dsc
+ 881c2846f8be17973a089c35826bc192 280308 web extra info6005-cw1-ep4g11_1.2.tar.gz
+ 6c73d6fbe55450a32c369ed46775d02b 7020 web extra info6005-cw1-ep4g11_1.2_all.deb
