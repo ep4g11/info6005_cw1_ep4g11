@@ -1,4 +1,4 @@
-info6005-cw1-ep4g11 (v1.2) unstable; urgency=low
+info6005-cw1-ep4g11 (1.2) unstable; urgency=low
 
   [Eleftherios Panagoulis <ep4g11@soton.ac.uk>]
   * Updated index.php to reflect folder structure after installation.
@@ -8,7 +8,7 @@ info6005-cw1-ep4g11 (v1.2) unstable; urgency=low
 
  -- Eleftherios Panagoulis <ep4g11@soton.ac.uk>  Thu, 23 Feb 2012 19:15:12 +0000
 
-info6005-cw1-ep4g11 (v1.1) unstable; urgency=low
+info6005-cw1-ep4g11 (1.1) unstable; urgency=low
 
   [Eleftherios Panagoulis <ep4g11@soton.ac.uk>]
   * Updated index.php to reflect folder structure after installation.
