@@ -8,6 +8,6 @@ Standards-Version: 3.8.3
 Package: info6005-cw1-ep4g11
 Architecture: all
 Depends: php5-cli
-Description: A feed reader running from command line.
- A feed reader running from command line. By default shows 
- the 10 last news published on BBC website.
+Description: RSS Feed Reader running from command line.
+ RSS Feed Reader running from command line. By default shows 
+ the 10 last news titles published on BBC website.
